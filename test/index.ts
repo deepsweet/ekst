@@ -1,5 +1,4 @@
 import test from 'tape'
-
 import { appendExt, prependExt, replaceExt, removeExt } from '../src/'
 
 test('appendExt', (t) => {

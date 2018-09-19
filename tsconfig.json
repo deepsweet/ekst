@@ -1,11 +1,11 @@
 {
   "compilerOptions": {
+    "strict": true,
     "allowSyntheticDefaultImports": true,
     "noEmit": true,
     "pretty": true,
     "lib": ["esnext"],
-    "moduleResolution": "node",
-    "typeRoots": [ "types/", "node_modules/@types/" ]
+    "moduleResolution": "node"
   },
-  "exclude": ["node_modules/", "coverage/", "packages/*/build/"]
+  "exclude": ["build/", "coverage/", "node_modules/"]
 }
