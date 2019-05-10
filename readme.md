@@ -1,6 +1,6 @@
 # ekst
 
-[![npm](https://img.shields.io/npm/v/ekst.svg?style=flat-square)](https://www.npmjs.com/package/ekst) [![tests](https://img.shields.io/travis/deepsweet/ekst/master.svg?label=tests&style=flat-square)](https://travis-ci.org/deepsweet/ekst) [![coverage](https://img.shields.io/codecov/c/github/deepsweet/ekst.svg?style=flat-square)](https://codecov.io/github/deepsweet/ekst)
+[![npm](https://img.shields.io/npm/v/ekst.svg?style=flat-square)](https://www.npmjs.com/package/ekst) [![tests](https://img.shields.io/travis/deepsweet/ekst/master.svg?label=tests&style=flat-square)](https://travis-ci.org/deepsweet/ekst) [![coverage](https://img.shields.io/codecov/c/github/deepsweet/ekst.svg?style=flat-square)](https://codecov.io/github/deepsweet/ekst) [![Greenkeeper badge](https://badges.greenkeeper.io/deepsweet/ekst.svg)](https://greenkeeper.io/)
 
 Append, prepend, replace or remove [basename](https://nodejs.org/api/path.html#path_path_basename_path_ext) extensions.
 
