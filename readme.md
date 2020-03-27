@@ -1,6 +1,6 @@
 # ekst
 
-**:warning: Project has been transferred to [Bubble Dev metarepo](https://github.com/bubble-dev/_/tree/master/packages/ekst)**
+**:warning: Project has been transferred to [NexTools metarepo](https://github.com/nextools/metarepo/tree/master/packages/ekst)**
 
 [![npm](https://img.shields.io/npm/v/ekst.svg?style=flat-square)](https://www.npmjs.com/package/ekst) [![tests](https://img.shields.io/travis/deepsweet/ekst/master.svg?label=tests&style=flat-square)](https://travis-ci.org/deepsweet/ekst) [![coverage](https://img.shields.io/codecov/c/github/deepsweet/ekst.svg?style=flat-square)](https://codecov.io/github/deepsweet/ekst)
 
